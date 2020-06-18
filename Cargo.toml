@@ -1,0 +1,9 @@
+[package]
+name = "gti2bmp"
+version = "0.1.0"
+authors = ["Daan Vankerkom <daan@vankerkom.be>"]
+edition = "2018"
+
+[dependencies]
+byteorder = "1"
+bmp = "*"
